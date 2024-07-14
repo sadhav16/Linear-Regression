@@ -25,7 +25,7 @@ This involves leveraging linear algebra to compute the best-fit line by minimizi
 **Optimization using the Normal Equation**
 The normal equation provides a direct way to find the optimal model parameters without iterative optimization. The normal equation is given by:
 
-
+![Optimization equation](https://github.com/sadhav16/Linear-Regression/blob/6a3b5dc6cbb51aa856d42514213f236ba1a63f8f/Screenshot%202024-07-14%20102339.png)
 
 where:
 
