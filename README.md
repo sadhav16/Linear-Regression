@@ -20,4 +20,23 @@ The notebook requires the following Python packages:
 
 The notebook includes code to predict values using the trained linear regression model.
 
+The implementation of linear regression from scratch has also been completed using the matrix method.
+This involves leveraging linear algebra to compute the best-fit line by minimizing the sum of squared errors.
+**Optimization using the Normal Equation**
+The normal equation provides a direct way to find the optimal model parameters without iterative optimization. The normal equation is given by:
+
+
+
+where:
+
+𝜃:
+θ is the vector of model parameters (coefficients).
+
+𝑋:
+X is the input data matrix with an added column of ones for the intercept term.
+
+𝑦:
+y is the vector of target values.
+
+
 >Ensure to run all cells to see the predictions.
