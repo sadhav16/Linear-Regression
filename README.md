@@ -20,6 +20,7 @@ The notebook requires the following Python packages:
 
 The notebook includes code to predict values using the trained linear regression model.
 
+# Linear Regression from Scratch
 The implementation of linear regression from scratch has also been completed using the matrix method.
 This involves leveraging linear algebra to compute the best-fit line by minimizing the sum of squared errors.
 **Optimization using the Normal Equation**
